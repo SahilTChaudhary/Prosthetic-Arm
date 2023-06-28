@@ -13,6 +13,8 @@ Prosthetic Arms can be a life changer for those unfortunate enough to lose an ar
 
 <img src='/Prosthetic Arm/Images/ProstheticArm.png'>
 
+<img src='/Prosthetic Arm/Images/ProstheticArm_Topo.png'>
+
 ---
 
 # CONCLUSION
