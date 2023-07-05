@@ -1,6 +1,6 @@
 # ABSTRACT
 
-Prosthetic Arms can be a life changer for those unfortunate enough to lose an arm. However, they can be quite exoensive and hence inaccessible to the general masses. The idea behind the project was to design and develop a cost-effective Prosthetic Arm. The cost was reduced by using less material to make the structure of the arm. Topology Optimization was performed to determine the non-critical portions of the structure, and hence remove them. This reduced the material used and hence reduced the cost. The functional prototype was made using 3-D Printing and Raspberry Pi 4.
+Prosthetic Arms can be a life changer for those unfortunate enough to lose an arm. However, they can be quite expensive and hence inaccessible to the general masses. The idea behind the project was to design and develop a cost-effective Prosthetic Arm. The cost was reduced by using less material to make the structure of the arm. Topology Optimization was performed to determine the non-critical portions of the structure, and hence remove them. This reduced the material used and hence reduced the cost. The functional prototype was made using 3-D Printing and Raspberry Pi 4.
 
 ---
 
