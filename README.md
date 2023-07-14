@@ -7,7 +7,7 @@ Prosthetic Arms can be a life changer for those unfortunate enough to lose an ar
 **Work Done**
 
 * Designed the CAD model using SolidWorks
-* Performed Topology Optimization to reduce the material cost using SolidWorks
+* Performed Topology Optimization using SolidWorks to reduce the material cost by 30%
 * Conducted Static Structural Analysis using SolidWorks
 * Developed a Functional Prototype using Arduino Uno, 3-D Printing and ABS as the material
 
@@ -19,4 +19,4 @@ Prosthetic Arms can be a life changer for those unfortunate enough to lose an ar
 
 # CONCLUSION
 
-Topology Optimization was successfully used to reduce the material cost of the arm. However, considering that the arm has been 3-D Printed using ABS, it is relatively weak, and can only be utilized for manipulating light objects like soda cans, stationery etc. Strength can be improved by either changing the material, or changing the manufacturing method, both of which will increase cost.
+Topology Optimization was successfully used to reduce the material cost of the arm by 30%. However, considering that the arm has been 3-D Printed using ABS, it is relatively weak, and can only be utilized for manipulating light objects like soda cans, stationery etc. Strength can be improved by either changing the material, or changing the manufacturing method, both of which will increase cost.
